@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "突然好想你",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-13T18:28:39.691089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/01_突然好想你_五月天.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/02_突然好想你_五月天.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "五月天 (Mayday)",
+      "has_synced": true,
+      "path": "select/03_突然好想你_五月天_(Mayday).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "突然好想你(3DNA LIVE 版)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/04_突然好想你(3DNA_LIVE_版)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "突然好想你(3DNA LIVE 版)",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/05_突然好想你(3DNA_LIVE_版)_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/06_突然好想你_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/07_突然好想你_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "突然好想你 live in the sky",
+      "artist": "五月天, 李榮浩, 蕭敬騰 & 毛不易",
+      "has_synced": true,
+      "path": "select/08_突然好想你_live_in_the_sky_五月天,_李榮浩,_蕭敬騰_&_毛不易.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/09_突然好想你_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/10_突然好想你_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/11_突然好想你_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "突然好想你 - Live",
+      "artist": "LaLa Hsu",
+      "has_synced": true,
+      "path": "select/12_突然好想你_-_Live_LaLa_Hsu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/13_突然好想你_五月天.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/14_突然好想你_五月天.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "突然好想你",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/15_突然好想你_五月天.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "突然好想你(出头天 Live版)[music.migu.cn]",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/16_突然好想你(出头天_Live版)[music.migu.cn]_五月天.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "突然好想你 live in the sky",
+      "artist": "五月天, 李榮浩, 蕭敬騰 & 毛不易",
+      "has_synced": true,
+      "path": "select/17_突然好想你_live_in_the_sky_五月天,_李榮浩,_蕭敬騰_&_毛不易.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "突然好想你",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/pl_01_突然好想你_Mayday.txt"
+    }
+  ]
+}
